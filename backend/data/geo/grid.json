@@ -1,0 +1,401 @@
+{
+ "step": 2.5,
+ "points": [
+  {
+   "lat": 8.5,
+   "lon": 73.0,
+   "state": "Lakshadweep",
+   "id": 0
+  },
+  {
+   "lat": 8.5,
+   "lon": 78.0,
+   "state": "Tamil Nadu",
+   "id": 1
+  },
+  {
+   "lat": 8.5,
+   "lon": 93.0,
+   "state": "Andaman and Nicobar",
+   "id": 2
+  },
+  {
+   "lat": 11.0,
+   "lon": 73.0,
+   "state": "Lakshadweep",
+   "id": 3
+  },
+  {
+   "lat": 11.0,
+   "lon": 75.5,
+   "state": "Kerala",
+   "id": 4
+  },
+  {
+   "lat": 11.0,
+   "lon": 78.0,
+   "state": "Tamil Nadu",
+   "id": 5
+  },
+  {
+   "lat": 11.0,
+   "lon": 93.0,
+   "state": "Andaman and Nicobar",
+   "id": 6
+  },
+  {
+   "lat": 13.5,
+   "lon": 75.5,
+   "state": "Karnataka",
+   "id": 7
+  },
+  {
+   "lat": 13.5,
+   "lon": 78.0,
+   "state": "Karnataka",
+   "id": 8
+  },
+  {
+   "lat": 13.5,
+   "lon": 80.5,
+   "state": "Tamil Nadu",
+   "id": 9
+  },
+  {
+   "lat": 13.5,
+   "lon": 93.0,
+   "state": "Andaman and Nicobar",
+   "id": 10
+  },
+  {
+   "lat": 16.0,
+   "lon": 73.0,
+   "state": "Maharashtra",
+   "id": 11
+  },
+  {
+   "lat": 16.0,
+   "lon": 75.5,
+   "state": "Karnataka",
+   "id": 12
+  },
+  {
+   "lat": 16.0,
+   "lon": 78.0,
+   "state": "Telangana",
+   "id": 13
+  },
+  {
+   "lat": 16.0,
+   "lon": 80.5,
+   "state": "Andhra Pradesh",
+   "id": 14
+  },
+  {
+   "lat": 18.5,
+   "lon": 73.0,
+   "state": "Maharashtra",
+   "id": 15
+  },
+  {
+   "lat": 18.5,
+   "lon": 75.5,
+   "state": "Maharashtra",
+   "id": 16
+  },
+  {
+   "lat": 18.5,
+   "lon": 78.0,
+   "state": "Telangana",
+   "id": 17
+  },
+  {
+   "lat": 18.5,
+   "lon": 80.5,
+   "state": "Telangana",
+   "id": 18
+  },
+  {
+   "lat": 18.5,
+   "lon": 83.0,
+   "state": "Odisha",
+   "id": 19
+  },
+  {
+   "lat": 21.0,
+   "lon": 70.5,
+   "state": "Gujarat",
+   "id": 20
+  },
+  {
+   "lat": 21.0,
+   "lon": 73.0,
+   "state": "Gujarat",
+   "id": 21
+  },
+  {
+   "lat": 21.0,
+   "lon": 75.5,
+   "state": "Maharashtra",
+   "id": 22
+  },
+  {
+   "lat": 21.0,
+   "lon": 78.0,
+   "state": "Maharashtra",
+   "id": 23
+  },
+  {
+   "lat": 21.0,
+   "lon": 80.5,
+   "state": "Chhattisgarh",
+   "id": 24
+  },
+  {
+   "lat": 21.0,
+   "lon": 83.0,
+   "state": "Odisha",
+   "id": 25
+  },
+  {
+   "lat": 21.0,
+   "lon": 85.5,
+   "state": "Odisha",
+   "id": 26
+  },
+  {
+   "lat": 23.5,
+   "lon": 68.0,
+   "state": "Gujarat",
+   "id": 27
+  },
+  {
+   "lat": 23.5,
+   "lon": 70.5,
+   "state": "Gujarat",
+   "id": 28
+  },
+  {
+   "lat": 23.5,
+   "lon": 73.0,
+   "state": "Gujarat",
+   "id": 29
+  },
+  {
+   "lat": 23.5,
+   "lon": 75.5,
+   "state": "Madhya Pradesh",
+   "id": 30
+  },
+  {
+   "lat": 23.5,
+   "lon": 78.0,
+   "state": "Madhya Pradesh",
+   "id": 31
+  },
+  {
+   "lat": 23.5,
+   "lon": 80.5,
+   "state": "Madhya Pradesh",
+   "id": 32
+  },
+  {
+   "lat": 23.5,
+   "lon": 83.0,
+   "state": "Chhattisgarh",
+   "id": 33
+  },
+  {
+   "lat": 23.5,
+   "lon": 85.5,
+   "state": "Jharkhand",
+   "id": 34
+  },
+  {
+   "lat": 23.5,
+   "lon": 88.0,
+   "state": "West Bengal",
+   "id": 35
+  },
+  {
+   "lat": 23.5,
+   "lon": 93.0,
+   "state": "Mizoram",
+   "id": 36
+  },
+  {
+   "lat": 26.0,
+   "lon": 70.5,
+   "state": "Rajasthan",
+   "id": 37
+  },
+  {
+   "lat": 26.0,
+   "lon": 73.0,
+   "state": "Rajasthan",
+   "id": 38
+  },
+  {
+   "lat": 26.0,
+   "lon": 75.5,
+   "state": "Rajasthan",
+   "id": 39
+  },
+  {
+   "lat": 26.0,
+   "lon": 78.0,
+   "state": "Madhya Pradesh",
+   "id": 40
+  },
+  {
+   "lat": 26.0,
+   "lon": 80.5,
+   "state": "Uttar Pradesh",
+   "id": 41
+  },
+  {
+   "lat": 26.0,
+   "lon": 83.0,
+   "state": "Uttar Pradesh",
+   "id": 42
+  },
+  {
+   "lat": 26.0,
+   "lon": 85.5,
+   "state": "Bihar",
+   "id": 43
+  },
+  {
+   "lat": 26.0,
+   "lon": 88.0,
+   "state": "West Bengal",
+   "id": 44
+  },
+  {
+   "lat": 26.0,
+   "lon": 90.5,
+   "state": "Meghalaya",
+   "id": 45
+  },
+  {
+   "lat": 26.0,
+   "lon": 93.0,
+   "state": "Assam",
+   "id": 46
+  },
+  {
+   "lat": 26.0,
+   "lon": 95.5,
+   "state": "Nagaland",
+   "id": 47
+  },
+  {
+   "lat": 28.5,
+   "lon": 70.5,
+   "state": "Rajasthan",
+   "id": 48
+  },
+  {
+   "lat": 28.5,
+   "lon": 73.0,
+   "state": "Rajasthan",
+   "id": 49
+  },
+  {
+   "lat": 28.5,
+   "lon": 75.5,
+   "state": "Rajasthan",
+   "id": 50
+  },
+  {
+   "lat": 28.5,
+   "lon": 78.0,
+   "state": "Uttar Pradesh",
+   "id": 51
+  },
+  {
+   "lat": 28.5,
+   "lon": 80.5,
+   "state": "Uttar Pradesh",
+   "id": 52
+  },
+  {
+   "lat": 28.5,
+   "lon": 88.0,
+   "state": "Sikkim",
+   "id": 53
+  },
+  {
+   "lat": 28.5,
+   "lon": 93.0,
+   "state": "Arunachal Pradesh",
+   "id": 54
+  },
+  {
+   "lat": 28.5,
+   "lon": 95.5,
+   "state": "Arunachal Pradesh",
+   "id": 55
+  },
+  {
+   "lat": 31.0,
+   "lon": 75.5,
+   "state": "Punjab",
+   "id": 56
+  },
+  {
+   "lat": 31.0,
+   "lon": 78.0,
+   "state": "Uttarakhand",
+   "id": 57
+  },
+  {
+   "lat": 31.0,
+   "lon": 80.5,
+   "state": "Uttarakhand",
+   "id": 58
+  },
+  {
+   "lat": 33.5,
+   "lon": 73.0,
+   "state": "Jammu and Kashmir",
+   "id": 59
+  },
+  {
+   "lat": 33.5,
+   "lon": 75.5,
+   "state": "Jammu and Kashmir",
+   "id": 60
+  },
+  {
+   "lat": 33.5,
+   "lon": 78.0,
+   "state": "Ladakh",
+   "id": 61
+  },
+  {
+   "lat": 36.0,
+   "lon": 73.0,
+   "state": "Jammu and Kashmir",
+   "id": 62
+  },
+  {
+   "lat": 36.0,
+   "lon": 75.5,
+   "state": "Jammu and Kashmir",
+   "id": 63
+  },
+  {
+   "lat": 36.0,
+   "lon": 78.0,
+   "state": "Ladakh",
+   "id": 64
+  },
+  {
+   "lat": 36.0,
+   "lon": 80.5,
+   "state": "Ladakh",
+   "id": 65
+  }
+ ]
+}

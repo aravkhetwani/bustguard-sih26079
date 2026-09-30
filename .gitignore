@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+# regenerable / large
+backend/data/features/
+backend/data/interim/
+backend/data/*.duckdb
+backend/data/*.duckdb.wal
+backend/data/*.log
+backend/data/*.err
+backend/data/geo/ne_10m_*.geojson

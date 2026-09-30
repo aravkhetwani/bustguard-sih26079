@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+pyarrow
+lightgbm
+scikit-learn
+shap
+duckdb
+shapely
+requests
+httpx
+joblib

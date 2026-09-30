@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BustGuard · Forecast Reliability Console</title>
+<meta name="description" content="Calibrated, explained warnings for medium-range forecasts that are likely to bust, verified against ERA5.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230B6472'/%3E%3Cpath d='M16 22 8 9M16 22V8M16 22l8-13' stroke='%23fff' stroke-width='2' stroke-linecap='round' fill='none'/%3E%3Ccircle cx='16' cy='22' r='2.4' fill='%23F0C36A'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/app.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+</head>
+<body>
+<div id="app">
+  <nav class="rail" aria-label="Primary">
+    <div class="brand" title="BustGuard">
+      <svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+        <path d="M16 3.2 26.6 7.4v7.6c0 6.2-4.2 11-10.6 13.6C9.6 26 5.4 21.2 5.4 15V7.4Z" stroke="#fff" stroke-opacity=".9" stroke-width="1.6" stroke-linejoin="round"/>
+        <path d="M16 21.5 9.6 10.4M16 21.5V9.2M16 21.5l6.4-11.1" stroke="#F0C36A" stroke-width="1.8" stroke-linecap="round"/>
+        <circle cx="16" cy="21.5" r="2" fill="#fff"/>
+      </svg>
+    </div>
+    <div id="nav"></div>
+    <div class="rail-foot" id="rail-foot"></div>
+  </nav>
+  <div class="shell">
+    <header class="topbar" id="topbar"></header>
+    <main id="view" tabindex="-1"></main>
+  </div>
+</div>
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-label="Location detail" aria-hidden="true"></aside>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
